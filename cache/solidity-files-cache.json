@@ -1,0 +1,188 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\HP\\Downloads\\trustwallet-main (11)\\trustwallet-main\\contracts\\CryptoPaySubscription.sol": {
+      "lastModificationDate": 1778263923423,
+      "contentHash": "822d649eeea2f3eed7df28885e2bf910",
+      "sourceName": "contracts/CryptoPaySubscription.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "CryptoPaySubscription",
+        "IERC20",
+        "IERC20Permit"
+      ]
+    },
+    "C:\\Users\\HP\\Downloads\\trustwallet-main (11)\\trustwallet-main\\contracts\\MockERC20.sol": {
+      "lastModificationDate": 1778263923446,
+      "contentHash": "8e04e9e404cae2c26532d7706b1f4131",
+      "sourceName": "contracts/MockERC20.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "MockERC20"
+      ]
+    },
+    "C:\\Users\\HP\\Downloads\\trustwallet-main (11)\\trustwallet-main\\contracts\\MockERC20Permit.sol": {
+      "lastModificationDate": 1778263923462,
+      "contentHash": "1961c9cf8913adad1e20d8552693988c",
+      "sourceName": "contracts/MockERC20Permit.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "MockERC20Permit"
+      ]
+    },
+    "C:\\Users\\HP\\Downloads\\trustwallet-main (11)\\trustwallet-main\\contracts\\MockTRC20.sol": {
+      "lastModificationDate": 1778263923475,
+      "contentHash": "a4eb8920140a9d15dc69718fa54e2c18",
+      "sourceName": "contracts/MockTRC20.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "MockTRC20"
+      ]
+    },
+    "C:\\Users\\HP\\Downloads\\trustwallet-main (11)\\trustwallet-main\\contracts\\TronPaySubscription.sol": {
+      "lastModificationDate": 1778263923488,
+      "contentHash": "0d5d31f4aedb6fd40cfbee4994958ab6",
+      "sourceName": "contracts/TronPaySubscription.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ITRC20",
+        "TronPaySubscription"
+      ]
+    }
+  }
+}
